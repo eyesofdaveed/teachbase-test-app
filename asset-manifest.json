@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/eyesofdaveed/teachbase-test-app/static/css/main.cc4e1cd2.chunk.css",
-    "main.js": "/eyesofdaveed/teachbase-test-app/static/js/main.359a98b2.chunk.js",
-    "main.js.map": "/eyesofdaveed/teachbase-test-app/static/js/main.359a98b2.chunk.js.map",
-    "runtime-main.js": "/eyesofdaveed/teachbase-test-app/static/js/runtime-main.c3c79368.js",
-    "runtime-main.js.map": "/eyesofdaveed/teachbase-test-app/static/js/runtime-main.c3c79368.js.map",
-    "static/js/2.0a89086b.chunk.js": "/eyesofdaveed/teachbase-test-app/static/js/2.0a89086b.chunk.js",
-    "static/js/2.0a89086b.chunk.js.map": "/eyesofdaveed/teachbase-test-app/static/js/2.0a89086b.chunk.js.map",
-    "static/js/3.b95d87de.chunk.js": "/eyesofdaveed/teachbase-test-app/static/js/3.b95d87de.chunk.js",
-    "static/js/3.b95d87de.chunk.js.map": "/eyesofdaveed/teachbase-test-app/static/js/3.b95d87de.chunk.js.map",
-    "index.html": "/eyesofdaveed/teachbase-test-app/index.html",
-    "static/css/main.cc4e1cd2.chunk.css.map": "/eyesofdaveed/teachbase-test-app/static/css/main.cc4e1cd2.chunk.css.map",
-    "static/js/2.0a89086b.chunk.js.LICENSE.txt": "/eyesofdaveed/teachbase-test-app/static/js/2.0a89086b.chunk.js.LICENSE.txt"
+    "main.css": "/teachbase-test-app/static/css/main.cc4e1cd2.chunk.css",
+    "main.js": "/teachbase-test-app/static/js/main.359a98b2.chunk.js",
+    "main.js.map": "/teachbase-test-app/static/js/main.359a98b2.chunk.js.map",
+    "runtime-main.js": "/teachbase-test-app/static/js/runtime-main.30243318.js",
+    "runtime-main.js.map": "/teachbase-test-app/static/js/runtime-main.30243318.js.map",
+    "static/js/2.0a89086b.chunk.js": "/teachbase-test-app/static/js/2.0a89086b.chunk.js",
+    "static/js/2.0a89086b.chunk.js.map": "/teachbase-test-app/static/js/2.0a89086b.chunk.js.map",
+    "static/js/3.b95d87de.chunk.js": "/teachbase-test-app/static/js/3.b95d87de.chunk.js",
+    "static/js/3.b95d87de.chunk.js.map": "/teachbase-test-app/static/js/3.b95d87de.chunk.js.map",
+    "index.html": "/teachbase-test-app/index.html",
+    "static/css/main.cc4e1cd2.chunk.css.map": "/teachbase-test-app/static/css/main.cc4e1cd2.chunk.css.map",
+    "static/js/2.0a89086b.chunk.js.LICENSE.txt": "/teachbase-test-app/static/js/2.0a89086b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3c79368.js",
+    "static/js/runtime-main.30243318.js",
     "static/js/2.0a89086b.chunk.js",
     "static/css/main.cc4e1cd2.chunk.css",
     "static/js/main.359a98b2.chunk.js"
